@@ -1,1 +1,6 @@
-{"version":"1.1.5","url":"https://github.com/Soundzy1/pumpbuddy-lab/releases/download/v1.1.5/PumpBuddyLab.exe","sha256":"CF935C2ECC2C68F8B5D3DC0D137095D62BC39A6EFDD646E4816FCE08CF42E2A2","notes":"New Bullet hell skill: his eyes are the boss, tilt to dodge, tap for a bomb. The flashlight no longer turns itself off."}
+{
+  "version": "1.2.0",
+  "url": "https://github.com/Soundzy1/pumpbuddy-lab/releases/download/v1.2.0/PumpBuddyLab.exe",
+  "sha256": "87D633A4BFCADE2429C426C3A73F507BD0485653B13F45DEF560778A45F59171",
+  "notes": "New eye shapes and an eye shape editor, make your own skills, share looks and skills with a code, a skill wheel of 1 to 8 skills, and a guided tour. New buddy firmware: steadier rep counting, partial reps, and the rest timer waits until you stop moving."
+}
